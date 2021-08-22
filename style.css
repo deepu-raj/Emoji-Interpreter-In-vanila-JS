@@ -18,3 +18,9 @@ body {
     text-align: center;
     border-bottom-style: solid;
   }
+
+  #translationOutput{
+      text-align: center;
+      font-size: larger;
+      font-weight: bold;
+  }
